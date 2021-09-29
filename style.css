@@ -1,0 +1,196 @@
+body{
+margin: center;
+
+}
+
+.cuadro{
+   
+    background-color:hsl(356, 100%, 66%);
+background-repeat: no-repeat;
+background: ;
+border-radius: 50px;
+margin-top: 0%;
+margin:center ;
+padding-top: 30%;
+height: 100px;
+
+
+}
+.imag{
+margin: center;
+    margin-top: -155%;
+    margin-left: -6%;
+    
+
+}
+.titulo{
+    margin-top: 43%;
+margin-left: 5%;
+color:white;
+
+
+}
+.product{
+    margin: center;
+margin-top: -2.5%;
+    margin-left: 15%;
+    decoration: none;
+    border-radius: 2%;
+}
+
+.login{
+    margin: center;
+margin-top: -2%;
+    margin-left: 80%;
+}
+.subtitulo{
+    margin: center;
+margin-top: 10%;
+    margin-left:40%;
+    color: white;
+}
+.h3{
+    margin: center;
+margin-top: 0%;
+    margin-left: 29%;
+    color: white;
+    font-size: px;
+}
+.start-for-free{
+margin-top: 5%;
+    margin-left: 44%;
+} 
+
+.h1{
+    font-size: 20px;
+margin-left: 30%;
+margin-top: 10%;
+margin: center;
+
+}
+
+.h2{
+margin-left: 2%;
+margin: center;
+font-size: 17px;
+}
+
+.ogr{
+
+    margin-left: 2%;
+    margin-inline-start: 2%;
+    margin: center;
+    font-size: 15px;
+}
+.robust{
+    margin-left: 2%;
+    margin: center;
+    font-size: 17px;
+
+}
+.flexible{
+    margin-left: 2%;
+    margin-inline-start: 2%;
+    margin: center;
+    font-size: 15px;
+
+}
+.cuadro2{
+
+background-color:  hsl(208, 49%, 24%);
+border-radius: 50px;
+margin: center;
+padding:5%;
+}
+.state{
+color: white;
+margin-left: 50%;
+font-size: 17px;
+margin: center;
+
+}
+.with{
+color: white;
+margin-left: 50% ;
+font-size: 15px;
+margin: center;
+
+}
+.free{
+
+    margin-left: 50%;
+    margin: center;
+    font-size: 17px;
+
+
+}
+
+
+.is{
+
+    margin-left: 50%;
+    margin-inline-start: 50%;
+    margin: center;
+    font-size: 15px;
+
+}
+
+.powerful{
+    margin-left: 50%;
+    margin: center;
+    font-size: 17px;
+
+
+}
+
+.batteries{
+
+    margin-left: 50%;
+    margin-inline-start: 50%;
+    margin: center;
+    font-size: 15px;
+
+}
+
+.cuadro3{
+
+background-color:  hsl(240, 10%, 16%);
+padding:3%;
+margin: center;
+border-radius: 50px;
+    
+}
+
+.blo{
+    margin-top: 1%;
+    color: white;
+font-size: 30px;
+margin-left: 2%;
+margin: center;
+
+}
+.product2{
+
+margin-top: -5%;
+    color: white;
+margin-left: 20%;
+margin: center;
+
+}
+
+.company2{
+    color: white;
+    margin-left: 50%;
+    margin-top: -18%;
+    margin: center;
+
+}
+.connect2{
+
+    color: white;
+    margin-left: 80%;
+    margin-top: -15%;
+
+margin: center;
+}
+
